@@ -4,7 +4,7 @@ gcloud run deploy socialnetworks --image gcr.io/rankstrategy-ce64c/socialnetwork
 
 gcloud iam service-accounts list --project=rankstrategy-ce64c
 
-gcloud iam service-accounts keys create ./keys.json --iam-account jmanashti@rankworks.com
+gcloud iam service-accounts keys create ./keys.json --iam-account  github-action@rankstrategy-ce64c.iam.gserviceaccount.com
 
 gcloud auth activate-service-account --key-file=keys.json
 

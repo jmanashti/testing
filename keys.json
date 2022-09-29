@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rankstrategy-ce64c",
+  "private_key_id": "c0213e2a18fb4500230e98b6e552c822b29bed67",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDh8XbhUiVRofgC\nFHuUXR6Ixn8iuXpKQjYtIESE7J13NhiEgZizzei3lIN9q6Elbi3mKCsGU9AhTUcc\n06U+JtjtlU9xscJIbn7Yg0ZMqBK9vA2aznAiRpaR9KgrJ5ftZy/WcLupqzSUTh2A\neEtSx2ooltv8MDQDI0G/qso1LOYQIttYcbQ0uqZTlQo4HaLpcchwB0oY4QFYPZ5c\nK/t7mY0j8tucwolj937kWAJyPd3F1vtHZf71vslFoODpRuIP556TuHgBwe7CSzjQ\nkznRoJFu9xDBGbaZnb4PY2IOJZWrU2Mp/9YBLSSO+UQSxnlRW5kd/Dd4lWReG5wY\nUl7Wqb37AgMBAAECggEAEl19Kz1xGRyQOyMNFHcpNzbjOKBY51ZQbwSTbTaKahk0\njvi1v8+53cotkfZ0Z8V356BWNvJzFXHhmN8/LDkeItmjFnu7bgXFO7YX7b0voMp7\nVJz5EmAodv6q+K8EM2DSy5xoNJdc870RutKMVNMuttPkV7BXWfXwrzKjswTOQntb\nr6azNKpXQdmrA638O339JWBuBDhbGkRcnWhEF4/jLJU7K+Yo1fLX6IIK8XiQRgJa\ns7kYs3qa1KVzjYKx6/Ad8y8+Q+mDzyoEt4CEHQUbeBxoIHYzFyX6ekSyaqC69bPc\nZ0DQQSEzk9/f5Gf0oed1hCNiWsefkdAYPhja1mVyCQKBgQD9q5UmdIE7RsVtCQZo\nwTfgxqCcFiebhrtzN5oPDGkPhD4PBh1Wr2etBHxgHQnh1mrrOma6m8g373MxSySK\n/CoqbA+zskTk/6PfyzyhfCevmhcCg/Fe5ZSa0wsXxKtWNvQItd8mgobfwaB14+kV\nDNOj/UC/gNbBl3lhyfn/9dwhxQKBgQDkBLD5C3SUg5yVemVrlbzUa9xBqKW6FJ8z\nXyhFJ+v5WSOVH9UTXe4pqGcGprtG7L+yJL88DtXTc3rO20yDc5Bhr79hTjOSf4a5\nA4yIl+ytGjo/T71v6EU6GVnX2PgIdNyVwCS++MnkouQJtlhR3lt8CxyFLPHlXK8a\nuSvfd38cvwKBgEMX/O0c54l8IH/EYVOXt2XWY2ilW3iBXFcPH8pXJ/qYqaljnqLs\n5ekXRKZPR+vZwJHS8pTs2zogNUGWdGXmaGisCEMpJZvEGd35bWHw6rZBdVCPAWpu\nIq4In+h7di3pfwZGxGz1HSNVnVFRJLcSm2/Gbje4phSyMcKxn1QZ/U1ZAoGBAIvy\n1SwF++erX8/e76C4ps055lXmTNGJFq1RGkZX2l2QeGZuwzi/zg2DbriGXSuK451T\nMIyMDnFZz2Zm8u87XsKWO8BdXwnre6TSqM6tcHZOQrHZH0wwI00lgh8Y7CNElp7S\n77rGuCO8VnofkNWuxDe+GiMjEtTTriWYwXTGwx3BAoGATXi6e5LUBwk5F/Lj85YL\ndINxVWacLn44YuD7wa3mAChT3aNBDZ2grBX3quTqOoHm7W3q1pec8SO0hjsEQkgv\nwxL/8HO0XziV9GVoacDH6E/2XIznaJk77pphUHNLheshfoAbt+swA0Lp0QnTz15A\nLWhaw38y6vuiUUT+SXi75lU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "github-action@rankstrategy-ce64c.iam.gserviceaccount.com",
+  "client_id": "116666237665024589209",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/github-action%40rankstrategy-ce64c.iam.gserviceaccount.com"
+}
