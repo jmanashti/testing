@@ -1,10 +1,10 @@
-gcloud builds submit --tag gcr.io/<Project-Name>/<AppName>  --project=<Project-Name>
+gcloud builds submit --tag gcr.io/rankstrategy-ce64c/socialnetworks  --project=rankstrategy-ce64c
 
-gcloud run deploy <AppName> --image gcr.io/<Project-Name>/<AppName> --platform managed  --project=<Project-Name> --allow-unauthenticated --region us-east1
+gcloud run deploy socialnetworks --image gcr.io/rankstrategy-ce64c/socialnetworks --platform managed  --project=rankstrategy-ce64c --allow-unauthenticated --region us-east1
 
-gcloud iam service-accounts list --project=<Project-Name>
+gcloud iam service-accounts list --project=rankstrategy-ce64c
 
-gcloud iam service-accounts keys create ./keys.json --iam-account email@address
+gcloud iam service-accounts keys create ./keys.json --iam-account jmanashti@rankworks.com
 
 gcloud auth activate-service-account --key-file=keys.json
 
