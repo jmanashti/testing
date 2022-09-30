@@ -21,6 +21,7 @@ def hello_world():
         conn.close()
     except:
         print('error loading data')
+        test='error loading data'
     return test
 
 
